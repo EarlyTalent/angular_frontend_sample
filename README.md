@@ -23,7 +23,7 @@ You should use this [JSON Placeholder API](https://jsonplaceholder.typicode.com/
 You may use any internet sources to aid your implementation. [Angular](https://angular.io/docs) has great documentation if you get stuck/need help.
 
 ## Submitting Your Work (IMPORTANT!)
-When you are finished, create a Pull Request in Github for the forked repository. Submit the link to your Pull Request { here } at least 24 hours before your technical interview
+When you are finished, create a Pull Request in Github for the forked repository. Email the link to your Pull Request to nicole.chini@levvel.io at least 24 hours before your technical interview
 
 ## Example Interfaces
 
