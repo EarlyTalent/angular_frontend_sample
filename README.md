@@ -1,11 +1,11 @@
-# Levvel Technical Interview
+# Endava Technical Interview
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
 ## Project Setup
-- Fork the repository and clone the repository to your local machine.  Documentation on how to do this https://docs.github.com/en/get-started/quickstart/fork-a-repo
-- open the project locally
-- Create a branch using the naming convention **yourFirstName_yourLastName**. This is where you work should be saved.
+- Fork the repository and clone it to your local machine. For documentation on how to do this, please visit: https://docs.github.com/en/get-started/quickstart/fork-a-repo
+- Open the project locally
+- Create a new branch in the newly forked repo using the naming convention **yourFirstName_yourLastName**. This is where your work should be saved.
 - To run the project run the following command in the project directory: `ng serve` 
 - Open http://localhost:4200 to view it in the browser.
 
@@ -24,7 +24,7 @@ You should use this [JSON Placeholder API](https://jsonplaceholder.typicode.com/
 You may use any internet sources to aid your implementation. [Angular](https://angular.io/docs) has great documentation if you get stuck/need help.
 
 ## Submitting Your Work (IMPORTANT!)
-When you are finished, create a Pull Request in Github for the forked repository. This Pull Request should compare your created branch to the **main** branch. Email the link to your Pull Request to nicole.niemczycki@endava.com at least 24 hours before your technical interview
+When you are finished, create a Pull Request in Github for the forked repository. This Pull Request should compare two branches, BOTH on your forked repository; so, the branch you created on your forked repo should be compared to the default **main** branch ALSO on your forked repo. Email the link to your Pull Request to nicole.niemczycki@endava.com at least 24 hours before your technical interview
 
 ## Example Interfaces
 
